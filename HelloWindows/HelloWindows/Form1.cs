@@ -12,6 +12,8 @@ namespace HelloWindows
 {
     public partial class Form1 : Form
     {
+        private int newVar = 0;
+
         public Form1()
         {
             InitializeComponent();

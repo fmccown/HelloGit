@@ -13,7 +13,8 @@ namespace HelloWindows
     public partial class Form1 : Form
     {
         private int newVar = 0;
-
+        int partnerVar = 1;
+        
         public Form1()
         {
             InitializeComponent();
